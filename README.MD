@@ -1,3 +1,4 @@
+# deepseek AI语音助手
 ## 1.安装依赖库:
 ```
 python -m pip install -r requirements.txt
